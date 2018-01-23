@@ -8,7 +8,7 @@ Data: 23/01/2018
 
 from pygame import mixer
 mixer.init()
-mixer.music.load('Ex0021.mp3')
+mixer.music.load('MeuArquivo.mp3')
 mixer.music.play()
 input()
 
